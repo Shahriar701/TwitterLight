@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "744938843245",
+    "firebase_url": "https://twitter-app-3f73a.firebaseio.com",
+    "project_id": "twitter-app-3f73a",
+    "storage_bucket": "twitter-app-3f73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744938843245:android:07389f7d5e0bcd17",
+        "android_client_info": {
+          "package_name": "com.alrubaye.twitterdemstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744938843245-tssl9579afed95pvq1ijr11o1tt3b1lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alrubaye.twitterdemstart",
+            "certificate_hash": "ad79b40ef2be109112b96c5ac94e0da2a46c8831"
+          }
+        },
+        {
+          "client_id": "744938843245-s0kv0ir6hui39fc802ckpucsjf3qo1vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAkxuqDmqvNZGG-xr8MNt2N7zyJ2J6og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744938843245-s0kv0ir6hui39fc802ckpucsjf3qo1vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744938843245:android:786c4ffdd07cdf22",
+        "android_client_info": {
+          "package_name": "com.example.dragonsage.twitterlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744938843245-59428a1afoui7prjtb11t3q7pfqpqqbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dragonsage.twitterlight",
+            "certificate_hash": "ad79b40ef2be109112b96c5ac94e0da2a46c8831"
+          }
+        },
+        {
+          "client_id": "744938843245-s0kv0ir6hui39fc802ckpucsjf3qo1vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAkxuqDmqvNZGG-xr8MNt2N7zyJ2J6og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744938843245-s0kv0ir6hui39fc802ckpucsjf3qo1vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
